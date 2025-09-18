@@ -1,0 +1,6 @@
+venv
+__pycache__
+temp_uploads/
+redacted_files/
+restored_files/
+temp_page_images/
